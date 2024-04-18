@@ -29,7 +29,7 @@ Once the environment is set up, run the main app from the repository root.
 ## Summary
  | Project's Name | Published Article  | Docker |
 |:--------------:|:--------------:|:--------------:|
-| Machine-Learning-APIs |[Project Article](https://medium.com/@dansoaa2012/fastapi-sepsis-prediction-application-packaged-with-docker-and-integrated-with-a-machine-learning-a0428b4b3f578) |    [Docker Image](dansoaa/machine-learning-apis - Docker Image | Docker Hub)|
+| Machine-Learning-APIs |[Project Article](https://medium.com/@dansoaa2012/fastapi-sepsis-prediction-application-packaged-with-docker-and-integrated-with-a-machine-learning-a0428b4b3f578) |    [Docker Image](https://hub.docker.com/r/dansoaa/machine-learning-apis)|
 
 ## Author
 Akosua Dansoaa
